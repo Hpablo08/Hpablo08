@@ -1,4 +1,4 @@
-![Hello]('Hazel Pablo.png')
+[Hazel Pablo.png](https://github.com/Hpablo08/Hpablo08/blob/029741a4598227a8d9857fb1c4c9fad57effbf5a/Hazel%20Pablo.png)
 
 <p align="center">
 Front-End Software Developer Certificate from <a href="https://turing.edu/">Turing School of Software & Design</a>
