@@ -25,8 +25,8 @@ Front-End Software Developer Certificate from <a href="https://turing.edu/">Turi
 ### About Me
 - Pronouns: she/her
 - Background: I previously enjoyed a 12 year career in law enforcement and now have made an exciting life change to software development
-- I love to travel
-- I love to eat
+- I love to go on adventures 
+- I love to experience new foods
 
 
 ### Languages
