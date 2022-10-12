@@ -1,4 +1,3 @@
-![Hi there, I'm Hazel](https://www.canva.com/design/DAFO27PXWjk/fbCuDC8MsvnAVmZmcvGPTg/view?utm_content=DAFO27PXWjk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 <p align="center">
@@ -68,13 +67,7 @@ Front-End Software Developer Certificate from <a href="https://turing.edu/">Turi
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
 </div> 
 
-### Other Skills
 
-<div>
-  <img alt="Micorsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
- </div>
 
 <!--
 **Hpablo08/Hpablo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
